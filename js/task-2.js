@@ -14,7 +14,6 @@ class Storage {
     return this.#items
 
   }
-  // Тіло класу
 }
 
 const storage = new Storage(["Nanitoids", "Prolonger", "Antigravitator"]);
